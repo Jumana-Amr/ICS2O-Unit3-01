@@ -1,8 +1,18 @@
 #first-paragraph {
   font-family: Times New "Times New Roman";
   color: blueviolet;
-} 
+}
+
 .second-paragraph {
   font-family: sans-serif;
   color: palevioletred;
 }
+
+.table {
+  font-family: , Calibri, sans-serif;
+  width: 100%;
+  text-align: :left;
+  color: blue;
+}
+
+.
